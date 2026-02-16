@@ -1,5 +1,7 @@
 # data-job-market-intel
 
+Live App: https://data-job-market-intel-hedhtrdqt2c3szvzbvdfx.streamlit.app
+
 Interactive data analytics dashboard analyzing Data & BI job demand in Spain using the Adzuna API.  
 Built with Python, SQL, Streamlit, Pandas, and Plotly.
 
