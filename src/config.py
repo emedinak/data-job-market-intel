@@ -2,6 +2,12 @@ import os
 from pathlib import Path
 from dotenv import load_dotenv
 
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except Exception:
+    pass    
+
 # Ruta raíz del proyecto
 ROOT = Path(__file__).resolve().parents[1]
 
